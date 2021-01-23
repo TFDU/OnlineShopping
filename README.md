@@ -11,3 +11,6 @@ This is the log in development process
 ### V0.0.3
 * Frontend JSP
 * Controller implementation
+### V0.0.3
+* Controllers implementation
+* Spring security added
