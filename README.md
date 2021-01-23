@@ -8,3 +8,6 @@ This is the log in development process
 * database initialization
 ### V0.0.2
 * Logger & payment
+### V0.0.3
+* Frontend JSP
+* Controller implementation
