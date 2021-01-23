@@ -16,3 +16,6 @@ This is the log in development process
 * Spring security added
 ### V0.0.5
 * MVC implemention 
+### V0.0.6
+* MVC implemention
+* Web Flow
