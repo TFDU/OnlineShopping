@@ -6,4 +6,5 @@ An onlineShopping web application based on Spring/Hibernate
 This is the log in development process
 ### V0.0.1
 * database initialization
-
+### V0.0.2
+* Logger & payment
